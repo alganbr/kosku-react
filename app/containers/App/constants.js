@@ -8,3 +8,6 @@
  * Follow this format:
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
+
+ export const DISPLAY_ERROR = 'app/App/DISPLAY_ERROR';
+ export const DISPLAY_LOADING = 'app/App/DISPLAY_LOADING';
